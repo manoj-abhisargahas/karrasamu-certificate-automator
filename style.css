@@ -54,7 +54,7 @@ label[for="load-csv-file"]  {
 
 [type="submit"] {
     padding: 10px 30px 10px;
-    background-color: rgb(147 0 132);
+    background-color: #930084;
     color: #fff;
     cursor: pointer;
     border-radius: 5px;
@@ -63,7 +63,7 @@ label[for="load-csv-file"]  {
     border: none;
 }
 [type="submit"]#print-all {
-    background-color: rgb(255 113 0);
+    background-color: #ff7100;
 }
 
 .coach {
